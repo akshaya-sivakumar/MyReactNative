@@ -1,12 +1,12 @@
 import React from 'react';
-import Animations from './components/Animations';
+import PickerExample from './components/PickerExample';
 
 
  class App extends React.Component {
   
    render() {
       return (
-        <Animations/>
+        <PickerExample/>
       );
    }
 }
