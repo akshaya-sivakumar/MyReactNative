@@ -1,11 +1,8 @@
 {
   "expo": {
-    "name": "MyReactNative",
-    "slug": "MyReactNative",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "slug": "myreactnative",
+    "name": "myreactnative",
+    "entryPoint": ".vscode/exponentIndex.js"
   },
-  "name": "MyReactNative"
+  "name": "myreactnative"
 }
