@@ -2,7 +2,7 @@ import React from 'react';
 import Animations from './components/Animations';
 
 
-export default class App extends React.Component {
+ class App extends React.Component {
   
    render() {
       return (
@@ -10,3 +10,6 @@ export default class App extends React.Component {
       );
    }
 }
+
+export default App
+
