@@ -1,4 +1,4 @@
-package com.myreactnative;
+package com.example.react;
 
 import android.os.Build;
 import android.os.Bundle;

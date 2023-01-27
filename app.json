@@ -2,7 +2,13 @@
   "expo": {
     "slug": "myreactnative",
     "name": "myreactnative",
-    "entryPoint": ".vscode/exponentIndex.js"
+    "entryPoint": ".vscode/exponentIndex.js",
+    "android": {
+      "package": "com.example.react"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.react"
+    }
   },
   "name": "myreactnative"
 }
